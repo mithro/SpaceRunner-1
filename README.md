@@ -5,7 +5,7 @@ Turn based space action game.
 About this project
 ------------------
 
-This project was developed by Fernando Tiberti <fertiberti@gmail.com> under contract by Tim 'mithro' Ansell <mithro@mithis.com>, the project was never completed due to a lack of funds and was thus open sourced.
+This project was developed by [Fernando Tiberti](https://github.com/ferni) <fertiberti@gmail.com> under contract by [Tim 'mithro' Ansell](https://github.com/mithro) <mithro@mithis.com>, the project was never completed due to a lack of time and was thus open sourced.
 
 Screenshots
 -----------
